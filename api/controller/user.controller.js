@@ -1,5 +1,5 @@
 export const getUser = (req, res) => {
     res.json({
-        message: "Success!"
+        message: "Succesfully got user info!"
     })
 }
